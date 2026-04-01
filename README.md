@@ -129,3 +129,4 @@ Rf = 15K *2=30KΩ
 ## RESULT:
 
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
+<img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/5ac9fd99-2f58-4898-a6f2-23de870a3192" />
